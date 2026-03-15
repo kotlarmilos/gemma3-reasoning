@@ -4,6 +4,8 @@ Fine-tuning [Gemma 3 1B-IT](https://ai.google.dev/gemma) for improved math reaso
 
 Built as part of the Google Tunix Hackathon: https://www.kaggle.com/competitions/google-tunix-hackathon/writeups/gemma3-reasoning
 
+Hugging Face model: https://huggingface.co/kotlarmilos/gemma3-reasoning
+
 ## Pipeline
 
 ```
