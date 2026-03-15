@@ -1,0 +1,21 @@
+{
+  "base_model": "google/gemma-3-1b-it",
+  "lora_rank": 32,
+  "lora_alpha": 32.0,
+  "target_modules": [
+    "q_einsum",
+    "kv_einsum",
+    "gate_proj",
+    "down_proj",
+    "up_proj",
+    "attn_vec_einsum"
+  ],
+  "framework": "jax-tunix-qwix",
+  "max_seq_len": 1024,
+  "results": {
+    "gsm8k_baseline": 0.4,
+    "gsm8k_stage1_sft": 0.4,
+    "gsm8k_stage2_sft": 0.4,
+    "gsm8k_stage3_grpo": 0.4
+  }
+}
