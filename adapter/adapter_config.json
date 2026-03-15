@@ -13,9 +13,9 @@
   "framework": "jax-tunix-qwix",
   "max_seq_len": 1024,
   "results": {
-    "gsm8k_baseline": 0.4,
-    "gsm8k_stage1_sft": 0.4,
-    "gsm8k_stage2_sft": 0.4,
-    "gsm8k_stage3_grpo": 0.4
+    "gsm8k_baseline": 0.45,
+    "gsm8k_stage1_sft": 0.47,
+    "gsm8k_stage2_sft": 0.44,
+    "gsm8k_stage3_grpo": 0.47
   }
 }
