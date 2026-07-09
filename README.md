@@ -6,6 +6,8 @@ Built as part of the Google Tunix Hackathon: https://www.kaggle.com/competitions
 
 Hugging Face model: https://huggingface.co/kotlarmilos/gemma3-reasoning
 
+Writeup: [Teaching Gemma 3 chain-of-thought reasoning](https://huggingface.co/blog/kotlarmilos/gemma-3-1b-reasoning)
+
 ## Pipeline
 
 ```
